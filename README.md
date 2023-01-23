@@ -1,4 +1,8 @@
 # users-test-project
+Vue-2
+Typescript
+BootstrapVue
+Axios
 
 ## Project setup
 ```
